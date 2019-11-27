@@ -1,5 +1,5 @@
 # CUBECHINE
-Unity3D game, based on Brackeys tutorial [https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA].
+Unity3D game.
 
 You have three levels where you can by controlling the red cube and go around all the obstacles.
 
